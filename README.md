@@ -9,4 +9,5 @@ By preference: Go, Rust, CockroachDB, Redis, Terraform, and whatever cloud envir
 ## Contact
 
 - GitHub: [github.com/syndbg](https://github.com/syndbg)
+- Blog: [syndbg.github.io](https://syndbg.github.io/)
 - LinkedIn: [linkedin.com/in/syndbg](https://www.linkedin.com/in/syndbg)
